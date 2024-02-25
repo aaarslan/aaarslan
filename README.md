@@ -6,32 +6,41 @@
 
 ## Glad to see you here! 🎉
 
+<table>
+  
 I am a Senior Frontend Engineer who isn't afraid to step outside his comfort zone. Passionate about building innovative solutions 🚧 and driven by curiosity 🤕.
+
+<tr><td valign="top" width="80%" border="none">
 
 - 🧑‍🚀 I’m currently working on [Deluxe R360+](https://www.deluxe.com/receivables-management/cash-application/)
 - 🧠 Educating myself more about Rust 🦀
 
-![GIF](https://media.giphy.com/media/ciGXBxyAWPps0hzIs7/giphy.gif)
+</td><td valign="top" width="20%">
 
+<div align="center">
+<img src="https://media.giphy.com/media/ciGXBxyAWPps0hzIs7/giphy.gif" align="center" height="75" width="auto" />
+</div>  
+
+</td></tr></table>  
 
 ### 💻 Tech Stack
 
 #### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript🌟🌟🌟🌟🌟-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript🌟🌟🌟🌟🌟-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/Go🌟🌟-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3🌟🌟🌟🌟🌟-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23🌟🌟-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5🌟🌟🌟🌟🌟-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua🌟🌟-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python🌟🌟🌟-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/Shell_Script🌟🌟🌟-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust🌟-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 
 #### Libraries & Frameworks
 
-##### Frontend
+##### Frontend 🌟🌟🌟🌟🌟
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
@@ -39,19 +48,19 @@ I am a Senior Frontend Engineer who isn't afraid to step outside his comfort zon
 ![Astro](https://img.shields.io/badge/Astro-%23000000.svg?style=flat-square&logo=astro&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-%23000000.svg?style=flat-square&logo=remix&logoColor=white)
 
-#### React Ecosystem
+#### React Ecosystem 🌟🌟🌟🌟🌟
 
 ![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=flat-square&logo=react-router&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=flat-square&logo=react-query&logoColor=white)
 
-##### Backend
+##### Backend 🌟🌟
 
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 
-##### UI Libraries
+##### UI Libraries 🌟🌟🌟🌟🌟
 
 ![Ant-Design](https://img.shields.io/badge/Ant_Design-%230170FE?style=flat-square&logo=ant-design&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
@@ -65,26 +74,26 @@ I am a Senior Frontend Engineer who isn't afraid to step outside his comfort zon
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white)
 ![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=flat&logo=unocss&logoColor=white)
 
-#### State Management
+#### State Management 🌟🌟🌟🌟🌟
 
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=flat-square&logo=zustand&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-%23FF9955.svg?style=flat-square&logo=mobx&logoColor=white)
 
-#### Build Tools
+#### Build Tools 🌟🌟🌟🌟🌟
 
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=flat-square&logo=rollup.js&logoColor=white)
 
-#### Testing
+#### Testing 🌟🌟🌟🌟
 
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-%23FF9900.svg?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%234285F4.svg?style=flat-square&logo=playwright&logoColor=white)
 
-#### Tools & Platforms
+#### Tools & Platforms 🌟🌟🌟🌟
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
@@ -97,7 +106,7 @@ I am a Senior Frontend Engineer who isn't afraid to step outside his comfort zon
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 
-#### Databases
+#### Databases 🌟🌟
 
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
