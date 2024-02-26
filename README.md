@@ -8,7 +8,11 @@
 
 <table>
   
-I am a Senior Frontend Engineer who isn't afraid to step outside his comfort zone. Passionate about building innovative solutions 🚧 and driven by curiosity 🤕.
+I am a Senior Frontend Engineer who isn't afraid to step outside his comfort zone.
+
+Passionate about building innovative solutions 🚧
+
+Driven by curiosity 🤕
 
 <tr><td valign="top" width="80%" border="none">
 
@@ -26,16 +30,15 @@ I am a Senior Frontend Engineer who isn't afraid to step outside his comfort zon
 ### 💻 Tech Stack
 
 #### Languages
-
 ![TypeScript](https://img.shields.io/badge/TypeScript🌟🌟🌟🌟🌟-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript🌟🌟🌟🌟🌟-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/Go🌟🌟-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3🌟🌟🌟🌟🌟-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23🌟🌟-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5🌟🌟🌟🌟🌟-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua🌟🌟-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3🌟🌟🌟🌟🌟-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python🌟🌟🌟-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/Shell_Script🌟🌟🌟-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go🌟🌟-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23🌟🌟-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua🌟🌟-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust🌟-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 
 #### Libraries & Frameworks
