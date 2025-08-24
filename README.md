@@ -1,42 +1,87 @@
-# Welcome 🤝, I'm Abdallah Arslan
+# Abdallah Arslan — Senior Frontend Engineer
 
-[![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-arslan)
-[![aaarslan](https://img.shields.io/badge/-000000?&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iQ2FwYV8xIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHdpZHRoPSI1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTI0MC44NCA0MDkuMTEtMTg0LjMyLTkyLjE2di0xMDcuNTNsMzAuNzItNjEuNDQgOTIuMTYtNDYuMDhoOTIuMTZsMTg0LjMyIDE4NC4zMnYxNS4zNmwtOTIuMTYgNDYuMDgtMzAuNzItMTUuMzV2MzAuNzJ6bTAtMzAuNzIgNjEuNDQtMzAuNzItNjEuNDQtNjEuNDQgNjEuNDQtMzAuNzIgNjEuNDQgNjEuNDQgNjEuNDQtMzAuNzItMTUzLjYtMTUzLjZoLTkyLjE2bC02MS40NCAzMC43Mi0zMC43MiA2MS40NHptLTMwLjcyLTEyMi44OC02MS40NC02MS40NCA2MS40NC0zMC43MiA2MS40NCA2MS40NHoiLz4KICA8c3R5bGU+CiAgICAgICAgcGF0aCB7IGZpbGw6ICMwMDA7IH0KICAgICAgICBAbWVkaWEgKHByZWZlcnMtY29sb3Itc2NoZW1lOiBkYXJrKSB7CiAgICAgICAgICAgIHBhdGggeyBmaWxsOiAjRkZGOyB9CiAgICAgICAgfQogICAgPC9zdHlsZT4KPC9zdmc+&logoColor=white)](https://www.aaarslan.com/)
+Senior Frontend Engineer with 6+ years building fast, accessible, and scalable web applications. I specialize in React, TypeScript, micro‑frontends, SSR/Next.js, and performance at scale. I care about clean architecture, great DX, and measurable outcomes.
 
-## Glad to see you here! 🎉
+Open to: Senior Frontend roles • Remote (US Eastern Time)  
+Contact: arslan.abdallah@gmail.com • LinkedIn: https://linkedin.com/in/abdallah-arslan
 
-<table>
-  
-I am a Senior Frontend Engineer who isn't afraid to step outside his comfort zone.
+---
 
-Passionate about building innovative solutions 🚧
+## Snapshot
 
-Driven by curiosity 🤕
+- Strengths: React + TypeScript, micro‑frontends (micro‑UI), SSR/Next.js, performance, accessibility
+- Tooling: Webpack/Vite, GraphQL/REST, Redux, CI/CD (GitHub Actions)
+- Quality: Jest, Cypress, Playwright; typed and tested pipelines
+- Cloud/Infra: AWS, Docker, observability (Dynatrace, Splunk)
+- Collaboration: Agile delivery, code reviews, mentorship, partnering with Design/PM
 
-<tr><td valign="top" width="80%" border="none">
+---
 
-- 🧑‍🚀 I’m currently working on [Deluxe R360+](https://www.deluxe.com/receivables-management/cash-application/)
+## Impact highlights
 
-</td><td valign="top" width="20%">
+- Delivered a major React + TypeScript platform 6 months ahead of schedule (Deluxe)
+- +20% user engagement on high‑traffic surfaces via Next.js, TypeScript, Redux (Walmart Global Tech)
+- ~25% faster delivery converting complex Figma designs into accessible features (Walmart Global Tech)
+- ~15% faster load times and improved user satisfaction across client projects (SUR Consulting)
+- +20% conversion uplift on responsive e‑commerce builds through UX + SEO improvements (Remedi)
 
-<div align="center">
-<img src="https://media.giphy.com/media/ciGXBxyAWPps0hzIs7/giphy.gif" align="center" height="75" width="auto" />
-</div>  
+---
 
-</td></tr></table>  
+## Selected case studies
 
-### 💻 Tech Stack
+- Deluxe R360+ — Cash application/receivables platform  
+  Role: Senior Frontend Engineer (React, TypeScript, AWS, .NET)  
+  Problem: Scale a complex, enterprise UI with performance and reliability targets  
+  Approach: Defined FE architecture, state patterns, CI gates; led reviews and mentorship  
+  Outcome: Shipped 6 months early; improved scalability and performance  
+  Link: https://www.deluxe.com/receivables-management/cash-application/
 
-#### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript🌟🌟🌟🌟🌟-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript🌟🌟🌟🌟🌟-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5🌟🌟🌟🌟🌟-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3🌟🌟🌟🌟🌟-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python🌟🌟-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/Shell_Script🌟🌟🌟-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+- Walmart Global Tech — Next.js application surfaces  
+  Role: Senior FE contractor (Next.js, TypeScript, Redux)  
+  Problem: Implement complex designs quickly without sacrificing accessibility  
+  Approach: A11y‑first components, shared utilities, stricter typing, and UI validation in CI  
+  Outcome: +20% engagement; ~25% faster delivery velocity  
+  Links: Internal (case study available on request)
 
+- SUR Consulting — Multi‑client web projects  
+  Role: Software Engineer (React, JavaScript, Java, SQL, AWS)  
+  Problem: Improve performance and delivery across varied client stacks  
+  Approach: Standardized performance budgets; optimized critical rendering paths  
+  Outcome: ~15% faster load times, higher user satisfaction
 
-### 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aaarslan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Core skills
 
+- Languages: TypeScript, JavaScript, HTML5, CSS3, Python, SQL, .NET
+- Frontend: React, Next.js, Redux, SSR, micro‑frontends (micro‑UI)
+- Architecture: Modular design, performance budgets, caching/CDN, code‑splitting
+- Testing: Jest, Cypress, Playwright; CI gates for types, tests, and lint
+- Tooling: Webpack, Vite, GraphQL/REST, ESLint, Prettier, Husky
+- Cloud & DevOps: AWS, Docker, GitHub Actions, Dynatrace, Splunk
+- Ways of working: RFCs, docs, small PRs, strong reviews, mentorship
+
+---
+
+## System design notes (frontend)
+
+- Rendering strategy: SSR/ISR for critical surfaces; client‑only where it reduces complexity
+- Performance: Core Web Vitals focus; lazy routes, code‑split components, image/CDN optimization
+- Data layer: Co-locate data fetching; cache semantics and invalidation by route/scope
+- Micro‑UI: Independent deployable slices; shared UI primitives; strict typing at boundaries
+- A11y: Semantics first, keyboard flows, and automated checks in CI
+- Observability: Logs, metrics, and tracing for frontends; error budgets feed priorities
+- Reliability: Feature flags, safe rollout, and progressive enhancement
+- Quality gates: Types, tests, lint, and preview deploys on every PR
+
+---
+
+## Certifications
+
+- AWS Certified Cloud Practitioner (Nov 2023)
+- Google Project Management Certificate (Jul 2021)
+- BBA, International Business — Georgia Gwinnett College (Aug 2017)
+
+---
+
+If you’re hiring for high‑impact frontend work, let’s talk: arslan.abdallah@gmail.com
