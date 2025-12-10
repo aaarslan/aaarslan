@@ -53,7 +53,7 @@ Contact: arslan.abdallah@gmail.com • LinkedIn: https://linkedin.com/in/abdalla
 
 ## Core skills
 
-- Languages: TypeScript, JavaScript, HTML5, CSS3, Python, SQL, .NET
+- Languages: TypeScript, JavaScript, HTML5, CSS3, Python
 - Frontend: React, Next.js, Redux, SSR, micro‑frontends (micro‑UI)
 - Architecture: Modular design, performance budgets, caching/CDN, code‑splitting
 - Testing: Jest, Cypress, Playwright; CI gates for types, tests, and lint
