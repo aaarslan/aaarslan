@@ -1,87 +1,51 @@
-# Abdallah Arslan — Senior Frontend Engineer
+# Abdallah Arslan
 
-Senior Frontend Engineer with 6+ years building fast, accessible, and scalable web applications. I specialize in React, TypeScript, micro‑frontends, SSR/Next.js, and performance at scale. I care about clean architecture, great DX, and measurable outcomes.
+Senior Software Engineer building enterprise React and TypeScript systems, cloud-enabled products, AI-assisted engineering workflows, and production-grade developer tools.
 
-Open to: Senior Frontend roles • Remote (US Eastern Time)  
-Contact: arslan.abdallah@gmail.com • LinkedIn: https://linkedin.com/in/abdallah-arslan
+Currently operating with staff-level ownership on Deluxe's R360+ receivables platform, shaping frontend architecture, cross-team delivery, reliability, and AI-assisted development practices for systems handling millions of payment records.
 
----
+## Selected Work
 
-## Snapshot
+### [Skillcheck](https://github.com/aaarslan/skill-check)
 
-- Strengths: React + TypeScript, micro‑frontends (micro‑UI), SSR/Next.js, performance, accessibility
-- Tooling: Webpack/Vite, GraphQL/REST, Redux, CI/CD (GitHub Actions)
-- Quality: Jest, Cypress, Playwright; typed and tested pipelines
-- Cloud/Infra: AWS, Docker, observability (Dynatrace, Splunk)
-- Collaboration: Agile delivery, code reviews, mentorship, partnering with Design/PM
+Local-first LLM skill analysis with structural diffing, deterministic quality scoring, prompt-injection review, strict TypeScript, React 19, and 97 tests.
 
----
+- [Live demo](https://skillchck.netlify.app/)
+- Local browser processing with no backend
+- Pure domain logic separated from React presentation code
 
-## Impact highlights
+### [claude-rules](https://github.com/aaarslan/claude-rules)
 
-- Delivered a major React + TypeScript platform 6 months ahead of schedule (Deluxe)
-- +20% user engagement on high‑traffic surfaces via Next.js, TypeScript, Redux (Walmart Global Tech)
-- ~25% faster delivery converting complex Figma designs into accessible features (Walmart Global Tech)
-- ~15% faster load times and improved user satisfaction across client projects (SUR Consulting)
-- +20% conversion uplift on responsive e‑commerce builds through UX + SEO improvements (Remedi)
+A modular context-engineering and quality-control system for coding agents, with evidence-first verification, selective context loading, review standards, and multi-agent orchestration.
 
----
+### [PixelParity](https://github.com/aaarslan/pixelparity)
 
-## Selected case studies
+A privacy-first Manifest V3 Chrome extension for precision display metrics and interface verification, with reproducible builds and cross-platform CI.
 
-- Deluxe R360+ — Cash application/receivables platform  
-  Role: Senior Frontend Engineer (React, TypeScript, AWS, .NET)  
-  Problem: Scale a complex, enterprise UI with performance and reliability targets  
-  Approach: Defined FE architecture, state patterns, CI gates; led reviews and mentorship  
-  Outcome: Shipped 6 months early; improved scalability and performance  
-  Link: https://www.deluxe.com/receivables-management/cash-application/
+- [Chrome Web Store](https://chromewebstore.google.com/detail/pixelparity-precision-dis/nobkjipoljcbnldmicopkjkbinggcipa)
+- Zero telemetry and minimal permissions
+- Unit, accessibility, and packaged-extension E2E coverage
 
-- Walmart Global Tech — Next.js application surfaces  
-  Role: Senior FE contractor (Next.js, TypeScript, Redux)  
-  Problem: Implement complex designs quickly without sacrificing accessibility  
-  Approach: A11y‑first components, shared utilities, stricter typing, and UI validation in CI  
-  Outcome: +20% engagement; ~25% faster delivery velocity  
-  Links: Internal (case study available on request)
+## Technical Focus
 
-- SUR Consulting — Multi‑client web projects  
-  Role: Software Engineer (React, JavaScript, Java, SQL, AWS)  
-  Problem: Improve performance and delivery across varied client stacks  
-  Approach: Standardized performance budgets; optimized critical rendering paths  
-  Outcome: ~15% faster load times, higher user satisfaction
+- React, TypeScript, Next.js, Node.js
+- Frontend architecture, design systems, and micro-frontends
+- AWS and cloud-enabled systems
+- AI-assisted software engineering and agentic workflows
+- Model Context Protocol, prompt engineering, and developer tooling
+- Accessibility, testing, observability, and release engineering
+- Technical leadership, mentorship, and product strategy
 
----
+## Professional Highlights
 
-## Core skills
+- Delivered a major enterprise platform six months ahead of schedule at Deluxe
+- Accelerated development timelines approximately 30% through modernized architecture and automated quality gates
+- Built high-traffic Next.js and TypeScript surfaces at Walmart Global Tech
+- Coordinate cross-team engineering initiatives, architecture standards, onboarding, and mentorship
+- AWS Certified Cloud Practitioner
+- 18 Anthropic Academy certificates of completion across Claude APIs, Bedrock, Vertex AI, MCP, agent skills, subagents, Claude Code, and AI fluency
 
-- Languages: TypeScript, JavaScript, HTML5, CSS3, Python
-- Frontend: React, Next.js, Redux, SSR, micro‑frontends (micro‑UI)
-- Architecture: Modular design, performance budgets, caching/CDN, code‑splitting
-- Testing: Jest, Cypress, Playwright; CI gates for types, tests, and lint
-- Tooling: Webpack, Vite, GraphQL/REST, ESLint, Prettier, Husky
-- Cloud & DevOps: AWS, Docker, GitHub Actions, Dynatrace, Splunk
-- Ways of working: RFCs, docs, small PRs, strong reviews, mentorship
+## Contact
 
----
-
-## System design notes (frontend)
-
-- Rendering strategy: SSR/ISR for critical surfaces; client‑only where it reduces complexity
-- Performance: Core Web Vitals focus; lazy routes, code‑split components, image/CDN optimization
-- Data layer: Co-locate data fetching; cache semantics and invalidation by route/scope
-- Micro‑UI: Independent deployable slices; shared UI primitives; strict typing at boundaries
-- A11y: Semantics first, keyboard flows, and automated checks in CI
-- Observability: Logs, metrics, and tracing for frontends; error budgets feed priorities
-- Reliability: Feature flags, safe rollout, and progressive enhancement
-- Quality gates: Types, tests, lint, and preview deploys on every PR
-
----
-
-## Certifications
-
-- AWS Certified Cloud Practitioner (Nov 2023)
-- Google Project Management Certificate (Jul 2021)
-- BBA, International Business — Georgia Gwinnett College (Aug 2017)
-
----
-
-If you’re hiring for high‑impact frontend work, let’s talk: arslan.abdallah@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/abdallah-arslan/)
+- [Email](mailto:arslan.abdallah@gmail.com)
