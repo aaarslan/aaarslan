@@ -6,7 +6,7 @@ Currently operating with staff-level ownership on Deluxe's R360+ receivables pla
 
 ## Selected Work
 
-### [Skillcheck](https://github.com/aaarslan/skill-check)
+### [Skill-check](https://github.com/aaarslan/skill-check)
 
 Local-first LLM skill analysis with structural diffing, deterministic quality scoring, prompt-injection review, strict TypeScript, React 19, and 97 tests.
 
