@@ -14,7 +14,7 @@ Local-first LLM skill analysis with structural diffing, deterministic quality sc
 - Local browser processing with no backend
 - Pure domain logic separated from React presentation code
 
-### [claude-rules](https://github.com/aaarslan/claude-rules)
+### [agent-engineering-rules](https://github.com/aaarslan/agent-engineering-rules)
 
 A modular context-engineering and quality-control system for coding agents, with evidence-first verification, selective context loading, review standards, and multi-agent orchestration.
 
