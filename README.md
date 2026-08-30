@@ -14,9 +14,14 @@ Local-first LLM skill analysis with structural diffing, deterministic quality sc
 - Local browser processing with no backend
 - Pure domain logic separated from React presentation code
 
-### [agent-engineering-rules](https://github.com/aaarslan/agent-engineering-rules)
+### [Agent Engineering Rules (AER)](https://github.com/aaarslan/agent-engineering-rules)
 
-A modular context-engineering and quality-control system for coding agents, with evidence-first verification, selective context loading, review standards, and multi-agent orchestration.
+Compact, tested, project-local engineering rules for Claude Code and OpenAI Codex, distributed through the zero-dependency `aer` CLI.
+
+- Install once: `npm install --global @aaarslan/aer`
+- [npm package](https://www.npmjs.com/package/@aaarslan/aer)
+- [v3.0.1 release](https://github.com/aaarslan/agent-engineering-rules/releases/tag/v3.0.1)
+- Linux and Windows packed-install validation with no telemetry, hooks, services, or global agent configuration
 
 ### [PixelParity](https://github.com/aaarslan/pixelparity)
 
