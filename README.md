@@ -20,7 +20,7 @@ Compact, tested, project-local engineering rules for Claude Code and OpenAI Code
 
 - Install once: `npm install --global @aaarslan/aer`
 - [npm package](https://www.npmjs.com/package/@aaarslan/aer)
-- [v3.1.0 release](https://github.com/aaarslan/agent-engineering-rules/releases/tag/v3.1.0)
+- [v3.1.1 release](https://github.com/aaarslan/agent-engineering-rules/releases/tag/v3.1.1)
 - Linux and Windows packed-install validation with no telemetry, hooks, services, or global agent configuration
 
 ### [PixelParity](https://github.com/aaarslan/pixelparity)
