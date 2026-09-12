@@ -16,12 +16,13 @@ Local-first LLM skill analysis with structural diffing, deterministic quality sc
 
 ### [Agent Engineering Rules (AER)](https://github.com/aaarslan/agent-engineering-rules)
 
-Compact, tested, project-local engineering rules for Claude Code and OpenAI Codex, distributed through the zero-dependency `aer` CLI.
+Project-local engineering rules for Claude Code and OpenAI Codex, distributed through the zero-dependency `aer` CLI. V5 focuses on complete behavior, coherent design, exact contracts, and verification proportional to risk.
 
-- Install once: `npm install --global @aaarslan/aer`
+- Install once: `npm install --global @aaarslan/aer@5.0.0` (Node.js 24+)
 - [npm package](https://www.npmjs.com/package/@aaarslan/aer)
-- [v3.1.1 release](https://github.com/aaarslan/agent-engineering-rules/releases/tag/v3.1.1)
-- Linux and Windows packed-install validation with no telemetry, hooks, services, or global agent configuration
+- [v5.0.0 release](https://github.com/aaarslan/agent-engineering-rules/releases/tag/v5.0.0) · [Release field note](https://aaarslan.com/field-notes/aer-v5-complete-engineering)
+- A 45-line universal kernel with profiles and task guidance; `aer verify` diagnostics are optional and do not certify completion
+- Ownership-safe local updates for Linux and Windows; no installed hooks, services, telemetry, or global agent configuration
 
 ### [PixelParity](https://github.com/aaarslan/pixelparity)
 
