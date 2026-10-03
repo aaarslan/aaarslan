@@ -18,7 +18,7 @@ Local-first LLM skill analysis with structural diffing, deterministic quality sc
 
 Independent engineering skills, a compact project contract, and recoverable project-local installation for Claude Code and OpenAI Codex. V6 separates canonical guidance from explicit client integrations.
 
-- Install the pinned CLI: `npm install --global @aaarslan/aer@6.0.0` (Node.js 24.0.0+)
+- Install the pinned CLI: `npm install --global @aaarslan/aer@6.0.0` (Node.js 24.11.1+)
 - [npm package](https://www.npmjs.com/package/@aaarslan/aer)
 - [v6.0.0 release](https://github.com/aaarslan/agent-engineering-rules/releases/tag/v6.0.0) · [Release field note](https://aaarslan.com/field-notes/aer-v6-independent-skills-safe-installation)
 - 13 independently usable skills, assurance profiles, and explicit native manual-invocation controls; Claude reviews use a Read/Grep/Glob adapter
