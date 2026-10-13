@@ -6,6 +6,14 @@ Currently operating with staff-level ownership on Deluxe's R360+ receivables pla
 
 ## Selected Work
 
+### [Prompt Library](https://github.com/aaarslan/prompt-library-plugin)
+
+A review-first MCP App for reusable prompts, with 35 built-in templates across eight categories, conversation-aware field filling, and an explicit review-and-copy workflow.
+
+- TypeScript, React, MCP Apps, and Cloudflare D1
+- Owner-scoped templates and drafts, saved-version checks, export, and confirmed deletion controls
+- MIT-licensed public source; ChatGPT directory submission and approval are separate and pending
+
 ### [Skill-check](https://github.com/aaarslan/skill-check)
 
 Local-first LLM skill analysis with structural diffing, deterministic quality scoring, prompt-injection review, strict TypeScript, React 19, and 97 tests.
