@@ -24,14 +24,11 @@ Local-first LLM skill analysis with structural diffing, deterministic quality sc
 
 ### [Agent Engineering Rules (AER)](https://github.com/aaarslan/agent-engineering-rules)
 
-Independent engineering skills, a compact project contract, and recoverable project-local installation for Claude Code and OpenAI Codex. V6 separates canonical guidance from explicit client integrations.
+Archived; no longer actively maintained. The final release is [v6.1.0](https://github.com/aaarslan/agent-engineering-rules/releases/tag/v6.1.0).
 
-- Install the pinned CLI: `npm install --global @aaarslan/aer@6.0.1` (Node.js 24.11.1+)
-- [npm package](https://www.npmjs.com/package/@aaarslan/aer)
-- [v6.0.1 release](https://github.com/aaarslan/agent-engineering-rules/releases/tag/v6.0.1) · [Release field note](https://aaarslan.com/field-notes/aer-v6-0-1-focused-resources-compatible-upgrades)
-- 13 independently usable skills with 38 directly named references (down from 170), clearer routing, and explicit native manual-invocation controls; Claude reviews use a Read/Grep/Glob adapter
-- `aer install`, `aer check`, and `aer uninstall`: safe 6.0.0 upgrades retire obsolete references while retaining collision/drift refusal, recoverable interruptions, and consumer-byte preservation
-- Zero runtime dependencies; no installed hooks, telemetry, provider runner, or automatic permission grants. [Dated capability evidence](https://github.com/aaarslan/agent-engineering-rules/blob/v6.0.1/docs/capability-matrix.md); no v6 model-efficacy claim
+- Independent engineering skills, a compact project contract, and recoverable project-local installation for Claude Code and OpenAI Codex
+- Final CLI: `npm install --global @aaarslan/aer@6.1.0` (Node.js 24.11.1+)
+- [npm package](https://www.npmjs.com/package/@aaarslan/aer) · [Dated capability evidence](https://github.com/aaarslan/agent-engineering-rules/blob/v6.1.0/docs/capability-matrix.md); no model-efficacy claim
 
 ### [PixelParity](https://github.com/aaarslan/pixelparity)
 
