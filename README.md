@@ -8,12 +8,13 @@ Currently operating with staff-level ownership on Deluxe's R360+ receivables pla
 
 ### [Marx](https://github.com/aaarslan/marx)
 
-A native application-security workbench connecting Checkmarx One findings to investigation, local coding-assistant handoffs, and evidence-qualified remediation.
+I built Marx to make Checkmarx validation at work more practical and share the workflow with developers facing similar friction. The native workbench connects Checkmarx One findings to investigation, local coding-assistant handoffs, and evidence-qualified remediation.
 
 - Go, Wails, React, TypeScript, and SQLite; built around the installed official Checkmarx CLI
 - Durable scan jobs, explicit project mapping, pinned remediation evidence, and opt-in CVE intelligence
 - [Native preview source](https://github.com/aaarslan/marx/tree/1a397ea25460c91aef7d58d41adca46be7b9696d) · [Walkthrough](https://github.com/aaarslan/marx/blob/1a397ea25460c91aef7d58d41adca46be7b9696d/docs/walkthrough.md) · [Acceptance record](https://github.com/aaarslan/marx/blob/1a397ea25460c91aef7d58d41adca46be7b9696d/docs/final-acceptance.md)
-- MIT-licensed, source-only developer preview. Native rewrite [under review](https://github.com/aaarslan/marx/pull/4); live tenant verification and signed distribution remain pending. Independent project, not an official or endorsed Checkmarx product.
+- MIT-licensed, source-only developer preview. Go/Wails rewrite [merged November 2, 2026](https://github.com/aaarslan/marx/pull/4); implementation links remain pinned to the reviewed preview.
+- Live tenant behavior has not been verified locally and requires approved work access. Signed distribution, latest Windows interaction changes, and full screen-reader coverage remain unqualified. Independent project, not an official or endorsed Checkmarx product.
 
 ### [Prompt Library](https://github.com/aaarslan/prompt-library-plugin)
 
