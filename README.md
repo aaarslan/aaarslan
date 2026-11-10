@@ -1,73 +1,54 @@
 # Abdallah Arslan
 
-Senior Software Engineer building enterprise React and TypeScript systems, cloud-enabled products, AI-assisted engineering workflows, and production-grade developer tools.
+**Senior Software Engineer at Deluxe · Frontend architecture & AI-assisted delivery**
 
-Currently operating with staff-level ownership on Deluxe's R360+ receivables platform, shaping frontend architecture, cross-team delivery, reliability, and AI-assisted development practices for systems handling millions of payment records.
+Reliable software. Better ways to ship it.
 
-## Selected Work
+I own frontend architecture for Deluxe's receivables platform, working across React, TypeScript, microfrontends, service integrations, and delivery tooling. Over 8+ years in enterprise financial software, retail, and consulting, I've learned to connect implementation decisions with the people who use and maintain the result.
+
+I also help teams adopt AI-assisted development through reusable guidance, MCP tooling, code review, and explicit verification. My independent projects turn recurring engineering friction into tools you can inspect.
+
+[Portfolio](https://aaarslan.com/) · [Résumé](https://aaarslan.com/abdallah-arslan-resume.pdf) · [Engineering experience](https://aaarslan.com/work/r360) · [LinkedIn](https://www.linkedin.com/in/abdallah-arslan/)
+
+## Selected work
 
 ### [Marx](https://github.com/aaarslan/marx)
 
-I built Marx to make Checkmarx validation at work more practical and share the workflow with developers facing similar friction. The native workbench connects Checkmarx One findings to investigation, local coding-assistant handoffs, and evidence-qualified remediation.
+A desktop workbench for moving from Checkmarx findings to reviewable remediation. It connects the official CLI to finding investigation, local coding-assistant handoffs, durable jobs, and preserved verification evidence. **Go, Wails, SQLite, React.**
 
-- Go, Wails, React, TypeScript, and SQLite; built around the installed official Checkmarx CLI
-- Durable scan jobs, explicit project mapping, pinned remediation evidence, and opt-in CVE intelligence
-- [Native preview source](https://github.com/aaarslan/marx/tree/1a397ea25460c91aef7d58d41adca46be7b9696d) · [Walkthrough](https://github.com/aaarslan/marx/blob/1a397ea25460c91aef7d58d41adca46be7b9696d/docs/walkthrough.md) · [Acceptance record](https://github.com/aaarslan/marx/blob/1a397ea25460c91aef7d58d41adca46be7b9696d/docs/final-acceptance.md)
-- MIT-licensed, source-only developer preview. Go/Wails rewrite [merged November 2, 2026](https://github.com/aaarslan/marx/pull/4); implementation links remain pinned to the reviewed preview.
-- Live tenant behavior has not been verified locally and requires approved work access. Signed distribution, latest Windows interaction changes, and full screen-reader coverage remain unqualified. Independent project, not an official or endorsed Checkmarx product.
+Independent developer preview; real scans use Checkmarx One. [Read the engineering decisions →](https://aaarslan.com/work/marx)
 
-### [Prompt Library](https://github.com/aaarslan/prompt-library-plugin)
+### [Skillcheck](https://github.com/aaarslan/skill-check)
 
-A review-first MCP App for reusable prompts, with 35 built-in templates across eight categories, conversation-aware field filling, and an explicit review-and-copy workflow.
+Review agent skill files locally in the browser or through an offline CLI. Compare revisions, inspect deterministic structural scores and heuristic injection findings, record decisions, and export the review. **React, TypeScript, Node.js.**
 
-- TypeScript, React, MCP Apps, and Cloudflare D1
-- Owner-scoped templates and drafts, saved-version checks, export, and confirmed deletion controls
-- MIT-licensed public source; ChatGPT directory submission and approval are separate and pending
-
-### [Skill-check](https://github.com/aaarslan/skill-check)
-
-Local-first LLM skill analysis with structural diffing, deterministic quality scoring, prompt-injection review, strict TypeScript, React 19, and 97 tests.
-
-- [Live demo](https://skillchck.netlify.app/)
-- Local browser processing with no backend
-- Pure domain logic separated from React presentation code
-
-### [Agent Engineering Rules (AER)](https://github.com/aaarslan/agent-engineering-rules)
-
-Archived; no longer actively maintained. The final release is [v6.1.0](https://github.com/aaarslan/agent-engineering-rules/releases/tag/v6.1.0).
-
-- Independent engineering skills, a compact project contract, and recoverable project-local installation for Claude Code and OpenAI Codex
-- Final CLI: `npm install --global @aaarslan/aer@6.1.0` (Node.js 24.11.1+)
-- [npm package](https://www.npmjs.com/package/@aaarslan/aer) · [Dated capability evidence](https://github.com/aaarslan/agent-engineering-rules/blob/v6.1.0/docs/capability-matrix.md); no model-efficacy claim
+Scores and findings support an inspectable review; they are not a security certification. [Explore the case study →](https://aaarslan.com/work/skillcheck)
 
 ### [PixelParity](https://github.com/aaarslan/pixelparity)
 
-A privacy-first Manifest V3 Chrome extension for precision display metrics and interface verification, with reproducible builds and cross-platform CI.
+A published Chrome extension for inspecting viewport and display metrics. The project includes live inspection, baseline comparison, accessible controls, and exports that help reproduce responsive-layout issues. **TypeScript, Preact, Chrome Extensions.**
 
-- [Chrome Web Store](https://chromewebstore.google.com/detail/pixelparity-precision-dis/nobkjipoljcbnldmicopkjkbinggcipa)
-- Zero telemetry and minimal permissions
-- Unit, accessibility, and packaged-extension E2E coverage
+Temporary tab access, no permanent website permissions. [See the workflow →](https://aaarslan.com/work/pixelparity)
 
-## Technical Focus
+## Architecture notebook
 
-- React, TypeScript, Next.js, Node.js
-- Frontend architecture, design systems, and micro-frontends
-- AWS and cloud-enabled systems
-- AI-assisted software engineering and agentic workflows
-- Model Context Protocol, prompt engineering, and developer tooling
-- Accessibility, testing, observability, and release engineering
-- Technical leadership, mentorship, and product strategy
+[**A software factory built on evidence**](https://aaarslan.com/work/software-factory)
 
-## Professional Highlights
+My proposed architecture for agent-assisted delivery: scoped tasks, isolated execution, independent verification, recoverable state, and human release decisions. Three interactive walkthroughs explore a small UI defect, an authentication change, and an interrupted release.
 
-- Delivered a major enterprise platform six months ahead of schedule at Deluxe
-- Accelerated development timelines approximately 30% through modernized architecture and automated quality gates
-- Built high-traffic Next.js and TypeScript surfaces at Walmart Global Tech
-- Coordinate cross-team engineering initiatives, architecture standards, onboarding, and mentorship
-- AWS Certified Cloud Practitioner
-- 18 Anthropic Academy certificates of completion across Claude APIs, Bedrock, Vertex AI, MCP, agent skills, subagents, Claude Code, and AI fluency
+The study includes the operating tradeoffs, evidence requirements, and a staged pilot plan.
 
-## Contact
+## How I work
 
-- [LinkedIn](https://www.linkedin.com/in/abdallah-arslan/)
-- [Email](mailto:arslan.abdallah@gmail.com)
+- Start with the real user journey and the existing system.
+- Keep scope, permissions, and acceptance criteria explicit.
+- Review generated changes and verify the behavior that matters.
+- Preserve evidence and uncertainty when a result needs further investigation.
+
+[Field notes](https://aaarslan.com/field-notes) document decisions, experiments, and lessons from work I continued or retired.
+
+## Credentials & contact
+
+**AWS Certified Cloud Practitioner** — renewed **October 5, 2026**; valid through **October 5, 2029**. [Verify on Credly](https://www.credly.com/badges/6c3d93f4-59c3-48b4-88fe-3ebe1c70e9a6/public_url).
+
+Based in the Atlanta area. For engineering conversations and collaboration: [arslan.abdallah@gmail.com](mailto:arslan.abdallah@gmail.com).
