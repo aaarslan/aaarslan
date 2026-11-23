@@ -1,51 +1,27 @@
 # Abdallah Arslan
 
-**Senior Software Engineer at Deluxe · Frontend architecture & AI-assisted delivery**
+**Senior Software Engineer at Deluxe**
 
-Reliable software. Better ways to ship it.
-
-I own frontend architecture for Deluxe's receivables platform, working across React, TypeScript, microfrontends, service integrations, and delivery tooling. Over 8+ years in enterprise financial software, retail, and consulting, I've learned to connect implementation decisions with the people who use and maintain the result.
-
-I also help teams adopt AI-assisted development through reusable guidance, MCP tooling, code review, and explicit verification. My independent projects turn recurring engineering friction into tools you can inspect.
+At Deluxe, I work on enterprise web software with React and TypeScript. My independent work explores what an AI workflow should do when it doesn’t have enough evidence to act.
 
 [Portfolio](https://aaarslan.com/) · [Résumé](https://aaarslan.com/abdallah-arslan-resume.pdf) · [Engineering experience](https://aaarslan.com/work/r360) · [LinkedIn](https://www.linkedin.com/in/abdallah-arslan/)
 
-## Selected work
+## Try the work
 
-### [Marx](https://github.com/aaarslan/marx)
+1. **[Investigation Workbench](https://aaarslan.com/work/investigations)** · Remove the rollout records from a recorded investigation. The onboarding drop is still visible, but the workbench withholds its recommendation.
+2. **[Software Factory](https://aaarslan.com/work/software-factory)** · Open “Green checks, newer code.” The lab shows why passing checks on an older commit can’t clear the current patch.
+3. **[Dispatch](https://aaarslan.com/work/dispatch)** · Try “Two plausible owners.” Instead of picking a team, Dispatch asks for more evidence and leaves the decision with the maintainer.
 
-A desktop workbench for moving from Checkmarx findings to reviewable remediation. It connects the official CLI to finding investigation, local coding-assistant handoffs, durable jobs, and preserved verification evidence. **Go, Wails, SQLite, React.**
+[Recorded agent runs](https://aaarslan.com/#agent-evidence) show the research, drafting, and review handoffs behind this work. Start with E01: copying a rendered draft dropped a citation; passing the original JSON kept it.
 
-Independent developer preview; real scans use Checkmarx One. [Read the engineering decisions →](https://aaarslan.com/work/marx)
+## Other projects
 
-### [Skillcheck](https://github.com/aaarslan/skill-check)
+- **[Marx](https://github.com/aaarslan/marx)** · A desktop workbench for moving from Checkmarx findings to reviewable remediation. [Engineering decisions](https://aaarslan.com/work/marx)
+- **[Skillcheck](https://github.com/aaarslan/skill-check)** · A browser and offline CLI for reviewing agent skill files and comparing revisions. [Case study](https://aaarslan.com/work/skillcheck)
+- **[PixelParity](https://github.com/aaarslan/pixelparity)** · A Chrome extension for inspecting and comparing viewport and display metrics. [Workflow](https://aaarslan.com/work/pixelparity)
+- **[Agent Engineering Rules](https://github.com/aaarslan/agent-engineering-rules)** · An archived collection of project-local guidance for coding agents.
 
-Review agent skill files locally in the browser or through an offline CLI. Compare revisions, inspect deterministic structural scores and heuristic injection findings, record decisions, and export the review. **React, TypeScript, Node.js.**
-
-Scores and findings support an inspectable review; they are not a security certification. [Explore the case study →](https://aaarslan.com/work/skillcheck)
-
-### [PixelParity](https://github.com/aaarslan/pixelparity)
-
-A published Chrome extension for inspecting viewport and display metrics. The project includes live inspection, baseline comparison, accessible controls, and exports that help reproduce responsive-layout issues. **TypeScript, Preact, Chrome Extensions.**
-
-Temporary tab access, no permanent website permissions. [See the workflow →](https://aaarslan.com/work/pixelparity)
-
-## Architecture notebook
-
-[**A software factory built on evidence**](https://aaarslan.com/work/software-factory)
-
-My proposed architecture for agent-assisted delivery: scoped tasks, isolated execution, independent verification, recoverable state, and human release decisions. Three interactive walkthroughs explore a small UI defect, an authentication change, and an interrupted release.
-
-The study includes the operating tradeoffs, evidence requirements, and a staged pilot plan.
-
-## How I work
-
-- Start with the real user journey and the existing system.
-- Keep scope, permissions, and acceptance criteria explicit.
-- Review generated changes and verify the behavior that matters.
-- Preserve evidence and uncertainty when a result needs further investigation.
-
-[Field notes](https://aaarslan.com/field-notes) document decisions, experiments, and lessons from work I continued or retired.
+I write about the decisions behind these projects in my [field notes](https://aaarslan.com/field-notes).
 
 ## Credentials & contact
 
